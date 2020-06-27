@@ -1,1 +1,93 @@
-export default () => <div></div>
+/**@jsx jsx*/
+
+import { jsx, Button } from 'theme-ui'
+
+import path from 'path'
+import fs from 'fs'
+import matter from 'gray-matter'
+import ReactMarkdown from 'react-markdown/with-html'
+
+const Page = ({ newd, data }) => {
+  const parseddata = JSON.parse(data)
+  const name = parseddata.data.name
+  return (
+    <div sx={{ p: {} }}>
+      <div sx={{ width: '100vw', textAlign: 'center', mt: 2 }}>
+        <div>
+          <img
+            sx={{ width: 150 }}
+            src={parseddata.data.img}
+            alt="Image Not Found"
+          />
+          <div>
+            {looparray.map(ele =>
+              ele <= parseddata.data.ratings ? (
+                <img sx={{ width: '20px' }} src="/starfilled.png" />
+              ) : (
+                <img sx={{ width: '20px' }} src="/starblank.png" />
+              )
+            )}
+            <h1 sx={{ mx: 4 }}>{name}</h1>
+          </div>
+        </div>
+      </div>
+      <div
+        sx={{
+          width: '80vw',
+          marginX: 'auto',
+          p: { fontSize: [2] },
+          li: {
+            fontSize: [2]
+          }
+        }}
+      >
+        <ReactMarkdown source={parseddata.content} escapeHtml={false} />
+      </div>
+      <div
+        sx={{
+          width: '100vw',
+          display: 'flex',
+          justifyContent: 'center',
+          pb: 4
+        }}
+      >
+        <Button
+          as="a"
+          sx={{
+            background: `linear-gradient(101.23deg, #07FFD0 4.81%, rgba(47, 208, 57, 0.96) 94.34%)`,
+            width: ['200px'],
+            py: [3],
+            mt: 3
+          }}
+          href={parseddata.data.download}
+        >
+          Download
+        </Button>
+      </div>
+      {/*console.log(newd, data)*/}
+    </div>
+  )
+}
+
+export async function getStaticProps(context) {
+  const { slug } = context.params
+  const content = await import(`../../apppages/${slug}/README.md`)
+  const data = matter(content.default)
+
+  return { props: { newd: slug, data: JSON.stringify(data) } }
+}
+
+export async function getStaticPaths() {
+  const postsDirectory = path.join(process.cwd(), 'apppages')
+  const filenames = fs.readdirSync(postsDirectory)
+
+  const paths = filenames.map(filename => {
+    return { params: { slug: filename } }
+  })
+
+  return { paths, fallback: false }
+}
+
+const looparray = [1, 2, 3, 4, 5]
+
+export default Page

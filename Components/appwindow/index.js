@@ -43,6 +43,9 @@ export const AppCard = ({ imgsrc, appname, rating }) => (
         cursor: 'pointer'
       }
     }}
+    onClick={() => {
+      window.open(`./app/${appname.split(' ')[0]}`, '_blank')
+    }}
   >
     <div sx={{ width: '100%', textAlign: 'center' }}>
       <img sx={{ width: '80px' }} src={imgsrc} />
