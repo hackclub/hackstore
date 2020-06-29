@@ -9,8 +9,8 @@ export default ({ imgsrc, section }) => (
       pt: 3,
       display: 'flex',
       flexDirection: 'column',
-      borderBottom: '1px solid',
-      borderColor: 'muted',
+      //  borderBottom: '1px solid',
+      // borderColor: 'muted',
       width: '100%',
       alignItems: 'center',
       ':hover': {

@@ -10,7 +10,7 @@ export default ({ imgsrc, section }) => (
       bg: 'sidebarcolor',
       width: ['40vw', '40vw', '30vw', '20vw'],
       overflow: 'auto',
-      display: 'flex',
+      display: ['none', 'flex'],
       flexDirection: 'column',
       alignItems: 'center',
       scrollbarWidth: 'none'
@@ -19,8 +19,8 @@ export default ({ imgsrc, section }) => (
     <img sx={{ width: '80px', mt: 4 }} src="hackclublogo.svg" />{' '}
     <h1
       sx={{
-        borderBottom: '1px solid',
-        borderColor: 'muted',
+        //     borderBottom: '1px solid',
+        //    borderColor: 'muted',
         width: '80%',
         textAlign: 'center'
       }}
@@ -33,11 +33,12 @@ export default ({ imgsrc, section }) => (
   </div>
 )
 
-const carddata = [
+export const carddata = [
   { imgsrc: 'icons/homevar.png', section: 'Home' },
   { imgsrc: 'icons/productivity.png', section: 'Productivity' },
   { imgsrc: 'icons/guitar.png', section: 'Music' },
   { imgsrc: 'icons/colorpallete.png', section: 'Graphics' },
   { imgsrc: 'icons/gamingconsole.png', section: 'Games' },
-  { imgsrc: 'icons/books.png', section: 'Books' }
+  { imgsrc: 'icons/books.png', section: 'Books' },
+  { imgsrc: 'icons/javascript.png', section: 'Javascript' }
 ]

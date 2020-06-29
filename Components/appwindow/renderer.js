@@ -5,7 +5,7 @@ import { mapper, AppCard } from './index'
 
 const Renderer = ({ activetab }) => (
   <Grid
-    columns={[1, 1, 2, 4]}
+    columns={[1, 1, 2, 4, 5]}
     sx={{ justifyContent: 'center', justifyItems: 'center', rowGap: 5, pb: 4 }}
   >
     {mapper(activetab).data.map(ele => (

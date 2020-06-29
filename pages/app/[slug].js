@@ -10,6 +10,7 @@ import ReactMarkdown from 'react-markdown/with-html'
 const Page = ({ newd, data }) => {
   const parseddata = JSON.parse(data)
   const name = parseddata.data.name
+  console.log(parseddata.data.tags)
   return (
     <div sx={{ p: {} }}>
       <div sx={{ width: '100vw', textAlign: 'center', mt: 2 }}>
@@ -28,6 +29,36 @@ const Page = ({ newd, data }) => {
               )
             )}
             <h1 sx={{ mx: 4 }}>{name}</h1>
+
+            {parseddata.data.tags ? (
+              <div
+                sx={{
+                  width: ['100vw', '80vw'],
+                  display: 'flex',
+                  flexWrap: 'wrap',
+                  mx: 'auto',
+                  justifyContent: 'center'
+                }}
+              >
+                {parseddata.data.tags.split(',').map(element => (
+                  <span
+                    sx={{
+                      py: [2],
+                      px: 3,
+                      bg: 'primary',
+                      color: 'white',
+                      fontWeight: 'bold',
+                      borderRadius: 8,
+                      m: [2]
+                    }}
+                  >
+                    {element}
+                  </span>
+                ))}
+              </div>
+            ) : (
+              ''
+            )}
           </div>
         </div>
       </div>
@@ -38,6 +69,14 @@ const Page = ({ newd, data }) => {
           p: { fontSize: [2] },
           li: {
             fontSize: [2]
+          },
+          img: {
+            width: ['350px', '450px', '600px', '700px', '850px'],
+            textAlign: 'center',
+            height: ['280px', '300px', '450px', '500px', '600px'],
+            margin: 'auto',
+            display: 'block',
+            my: 4
           }
         }}
       >
