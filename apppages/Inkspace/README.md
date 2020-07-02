@@ -1,6 +1,6 @@
 ---
 name: Inkspace
-img: '/appicons/inkspace.png'
+img: '/appicons/inkscape.png'
 ratings: 4
 download: '../files/inkspace.zip'
 ---

@@ -1,23 +1,32 @@
 /**@jsx jsx*/
 import { jsx, Grid } from 'theme-ui'
 import { connect } from 'react-redux'
-import { mapper, AppCard } from './index'
+import { AppCard } from './index'
+import mapper from '../../lib/maps/mapper'
+const Renderer = ({ activetab }) => {
+  const keyinitial = mapper(activetab).keyinitial
 
-const Renderer = ({ activetab }) => (
-  <Grid
-    columns={[1, 1, 2, 4, 5]}
-    sx={{ justifyContent: 'center', justifyItems: 'center', rowGap: 5, pb: 4 }}
-  >
-    {mapper(activetab).data.map(ele => (
-      <AppCard
-        imgsrc={ele.imgsrc}
-        appname={ele.appname}
-        rating={ele.ratings}
-        key={ele.key}
-      />
-    ))}
-  </Grid>
-)
+  return (
+    <Grid
+      columns={[1, 1, 2, 4, 5]}
+      sx={{
+        justifyContent: 'center',
+        justifyItems: 'center',
+        rowGap: 5,
+        pb: 4
+      }}
+    >
+      {mapper(activetab).data.map((ele, index) => (
+        <AppCard
+          imgsrc={ele.imgsrc}
+          appname={ele.appname}
+          rating={ele.ratings}
+          key={`${keyinitial}${index}`}
+        />
+      ))}
+    </Grid>
+  )
+}
 
 export default connect(
   state => ({

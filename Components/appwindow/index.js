@@ -4,19 +4,13 @@ import { jsx, Grid } from 'theme-ui'
 import { connect } from 'react-redux'
 import Renderer from './renderer'
 
-import homedata from '../../lib/Home/index'
 import store from '../../State/store/index'
 import { activetabchanged } from '../../State/actions/index'
 
-import productivitydata from '../../lib/Productivity/index'
-import musicdata from '../../lib/Music/index'
-import graphicsdata from '../../lib/Graphics/index'
-import gamesdata from '../../lib/Games/index'
-import booksdata from '../../lib/Books/index'
-import javascriptdata from '../../lib/Javascript/index'
-
 import { carddata } from '../sidebar/index'
-import card from '../sidebar/card'
+//import card from '../sidebar/card'
+
+import mapper from '../../lib/maps/mapper'
 
 const AppWindow = ({ activetab }) => (
   <div
@@ -36,7 +30,6 @@ const AppWindow = ({ activetab }) => (
         alignItems: 'center'
       }}
     >
-      {/**Ele */}
       <div sx={{ color: 'white', width: '100%' }}>
         <div
           sx={{
@@ -142,77 +135,3 @@ export default connect(
 
 //used for star rating system
 const looparray = [1, 2, 3, 4, 5]
-
-//the function which is mapping elements
-
-export const mapper = activetab => {
-  switch (activetab) {
-    case 'Home':
-      return {
-        imgsrc: 'icons/homevar.png',
-        text: 'home of most awesome  applications',
-        data: homedata
-      }
-      break
-    case 'Productivity':
-      return {
-        imgsrc: 'icons/productivity.png',
-        text: 'applications to boost your productivity',
-        data: productivitydata
-      }
-      break
-    case 'Music':
-      return {
-        imgsrc: 'icons/guitar.png',
-        text: 'applications to discover the musician inside you',
-        data: musicdata
-      }
-      break
-    case 'Graphics':
-      return {
-        imgsrc: 'icons/colorpallete.png',
-        text: 'create great grahics with these applications',
-        data: graphicsdata
-      }
-      break
-    case 'Games':
-      return {
-        imgsrc: 'icons/gamingconsole.png',
-        text: 'games which makes you happy',
-        data: gamesdata
-      }
-      break
-    case 'Books':
-      return {
-        imgsrc: 'icons/books.png',
-        text: 'books to boost your knowledge',
-        data: booksdata
-      }
-      break
-    case 'Javascript':
-      return {
-        imgsrc: 'icons/javascript.png',
-        text: 'Javascript libraries for making projects',
-        data: javascriptdata
-      }
-      break
-    default:
-      return { imgsrc: 'icons/.png', data: javascriptdata }
-      break
-  }
-}
-
-/*
-*
-export default connect(
-  state => ({
-    displayGateEditor: state.displayGateEditor,
-    code: state.code,
-    activetab: state.activetab
-  }),
-  {
-    ActionCodeUpdate,
-    ActionUrlUpdate
-  }
-)(AppWindow)
- */
