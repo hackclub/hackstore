@@ -14,7 +14,7 @@ app
       return handle(req, res)
     })
 
-    server.listen(8080, '0.0.0.0', err => {
+    server.listen(3000, '0.0.0.0', err => {
       if (err) throw err
       console.log('> Ready on http://localhost:8080')
     })
