@@ -1,3 +1,6 @@
+/* the server file to serve the application on express,
+on the pi application is being served on express */
+
 const express = require('express')
 const next = require('next')
 

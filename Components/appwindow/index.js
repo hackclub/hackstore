@@ -3,12 +3,12 @@
 import { jsx, Grid } from 'theme-ui'
 import { connect } from 'react-redux'
 import Renderer from './renderer'
+import Workshops from './workshops'
 
 import store from '../../State/store/index'
 import { activetabchanged } from '../../State/actions/index'
 
 import { carddata } from '../sidebar/index'
-//import card from '../sidebar/card'
 
 import mapper from '../../lib/maps/mapper'
 
@@ -72,7 +72,7 @@ const AppWindow = ({ activetab }) => (
     </Grid>
     <br sx={{ display: [null, 'none'] }} />
     <div sx={{ pt: [5] }}>
-      <Renderer />
+      {activetab === 'Workshops' ? <Workshops /> : <Renderer />}
     </div>
   </div>
 )
