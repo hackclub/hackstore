@@ -3,9 +3,12 @@ name: Audacity
 img: '/appicons/audacity.png'
 ratings: 3
 download: '../files/audacity.zip'
+tags: 'audio,music,productivity,editing'
 ---
 
 Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems.
+
+<img src="../../screenshots/Audacity/audacityss1.png" alt="image" >
 
 - Record live audio.
 - Record computer playback on any Windows Vista or later machine.
@@ -16,3 +19,5 @@ Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, m
 - Numerous effects including change the speed or pitch of a recording.
 - Write your own plug-in effects with Nyquist.
   \*\* And more! See the complete list of features.
+
+<img src="../../screenshots/Audacity/audacityss2.png" alt="image" >

@@ -71,7 +71,7 @@ const Page = ({ newd, data }) => {
             fontSize: [2]
           },
           img: {
-            width: ['350px', '450px', '600px', '700px', '850px'],
+            width: ['280px', '450px', '600px', '700px', '850px'],
             textAlign: 'center',
             height: ['280px', '300px', '450px', '500px', '600px'],
             margin: 'auto',
