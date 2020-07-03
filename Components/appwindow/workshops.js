@@ -31,7 +31,7 @@ export default () => (
         }
       }}
       onClick={() => {
-        window.open('http://box.lan:8080/')
+        window.open('https://workshops.hackclub.com/')
       }}
     >
       <h2>{`Launch Workshops >`}</h2>
