@@ -13,8 +13,8 @@ export default ({ imgsrc, section }) => (
       overflowX: 'hidden',
       display: ['none', 'flex'],
       flexDirection: 'column',
-      alignItems: 'center',
-      scrollbarWidth: 'none'
+      alignItems: 'center'
+      //scrollbarWidth: 'none'
     }}
   >
     <img sx={{ width: '80px', mt: 4 }} src="hackclublogo.svg" />{' '}
