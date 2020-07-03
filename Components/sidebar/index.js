@@ -10,6 +10,7 @@ export default ({ imgsrc, section }) => (
       bg: 'sidebarcolor',
       width: ['40vw', '40vw', '30vw', '20vw'],
       overflow: 'auto',
+      overflowX: 'hidden',
       display: ['none', 'flex'],
       flexDirection: 'column',
       alignItems: 'center',
