@@ -93,8 +93,12 @@ export const AppCard = ({ imgsrc, appname, rating }) => (
       }
     }}
     onClick={() => {
-      window.open(`./app/${appname.split(' ')[0]}`, '_blank')
+      window.open(
+        `./app/${appname == 'C++' ? 'Cplus' : appname.split(' ')[0]}`,
+        '_blank'
+      )
     }}
+    /**Note: Name of C++ had some issues hence used the above mapping of Cplus */
   >
     <div sx={{ width: '100%', textAlign: 'center' }}>
       <img sx={{ width: '80px' }} src={imgsrc} />
