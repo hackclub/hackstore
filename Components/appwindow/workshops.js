@@ -10,10 +10,6 @@ export default () => (
       alignItems: 'center'
     }}
   >
-    {/* <Button
-      sx={{ py: [null, 3], px: [null, 4], mt: 2 }}
-    >{`Launch Workshops >`}</Button>
-  */}
     <div
       sx={{
         bg: 'white',
@@ -34,8 +30,11 @@ export default () => (
           bg: 'primary'
         }
       }}
+      onClick={() => {
+        window.open('http://box.lan:8080/')
+      }}
     >
-      <h2>Launch Workshops ></h2>
+      <h2>{`Launch Workshops >`}</h2>
     </div>
   </div>
 )
