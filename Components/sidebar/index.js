@@ -37,6 +37,7 @@ export const carddata = [
   { imgsrc: 'icons/homevar.png', section: 'Home' },
   { imgsrc: 'icons/productivity.png', section: 'Productivity' },
   { imgsrc: 'icons/guitar.png', section: 'Music' },
+  { imgsrc: 'icons/programming.png', section: 'Programming' },
   { imgsrc: 'icons/colorpallete.png', section: 'Graphics' },
   { imgsrc: 'icons/gamingconsole.png', section: 'Games' },
   { imgsrc: 'icons/books.png', section: 'Books' },
