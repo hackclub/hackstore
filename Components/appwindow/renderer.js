@@ -21,6 +21,7 @@ const Renderer = ({ activetab }) => {
           imgsrc={ele.imgsrc}
           appname={ele.appname}
           rating={ele.ratings}
+          target={ele.target}
           key={`${keyinitial}${index}`}
         />
       ))}

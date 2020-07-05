@@ -42,6 +42,7 @@ export const carddata = [
   { imgsrc: 'icons/colorpallete.png', section: 'Graphics' },
   { imgsrc: 'icons/gamingconsole.png', section: 'Games' },
   { imgsrc: 'icons/books.png', section: 'Books' },
+  { imgsrc: 'icons/videos.png', section: 'Videos' },
   { imgsrc: 'icons/javascript.png', section: 'Javascript' },
   { imgsrc: 'icons/workshops.png', section: 'Workshops' }
 ]

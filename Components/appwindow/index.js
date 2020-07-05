@@ -77,7 +77,7 @@ const AppWindow = ({ activetab }) => (
   </div>
 )
 
-export const AppCard = ({ imgsrc, appname, rating }) => (
+export const AppCard = ({ imgsrc, appname, rating, target }) => (
   <div
     sx={{
       //       border: '1px solid',
@@ -93,8 +93,11 @@ export const AppCard = ({ imgsrc, appname, rating }) => (
       }
     }}
     onClick={() => {
+      console.log(target)
       window.open(
-        `./app/${appname == 'C++' ? 'Cplus' : appname.split(' ')[0]}`,
+        target
+          ? `./app/${target}`
+          : `./app/${appname == 'C++' ? 'Cplus' : appname.split(' ')[0]}`,
         '_blank'
       )
     }}
