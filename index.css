@@ -358,9 +358,18 @@ body,
   height: 100%;
   width: 100%;
   overflow-x: hidden;
-  scrollbar-width: thin;
 }
 
 a {
   outline: none;
 }
+
+.sidebar {
+  scrollbar-width: thin;
+}
+
+/*
+* {
+  scrollbar-width: thin;
+}
+*/

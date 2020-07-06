@@ -14,7 +14,7 @@ export default ({ imgsrc, section }) => (
       display: ['none', 'flex'],
       flexDirection: 'column',
       alignItems: 'center'
-      //scrollbarWidth: 'none'
+      //  scrollbarWidth: '2'
     }}
   >
     <img sx={{ width: '80px', mt: 4 }} src="hackclublogo.svg" />{' '}

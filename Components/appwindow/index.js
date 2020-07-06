@@ -23,7 +23,6 @@ const AppWindow = ({ activetab }) => (
         pt: 4,
         width: '100%',
         justifyContent: 'center',
-        // display: 'flex',
         background: `linear-gradient(107.91deg, #EC3750 0.04%, #AE0018 97.9%)`,
         color: 'background',
         pb: 5,
@@ -55,8 +54,8 @@ const AppWindow = ({ activetab }) => (
       columns={[carddata.length]}
       className="mobileSelector"
       sx={{
-        overflow: 'auto',
-        scrollbarWidth: 'none',
+        overflow: 'scroll',
+        //    scrollbarWidth: 'none',
         pt: 5,
         display: [null, 'none']
       }}
