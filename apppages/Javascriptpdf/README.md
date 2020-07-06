@@ -1,6 +1,6 @@
 ---
 name: Javascript Ebook
-img: '/appicons/book.png'
+img: '/appicons/js.png'
 ratings: 5
 download: '../files/javascriptpdf.zip'
 tags: 'ebook,guide,HTML'

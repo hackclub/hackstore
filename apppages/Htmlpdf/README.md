@@ -1,6 +1,6 @@
 ---
 name: HTML Ebook
-img: '/appicons/book.png'
+img: '/appicons/html.png'
 ratings: 5
 download: '../files/htmlpdf.zip'
 tags: 'ebook,guide,HTML'

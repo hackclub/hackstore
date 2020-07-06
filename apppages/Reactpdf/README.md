@@ -1,6 +1,6 @@
 ---
 name: React Ebook
-img: '/appicons/book.png'
+img: '/appicons/react.png'
 ratings: 5
 download: '../files/reactpdf.zip'
 tags: 'ebook,guide,react'
