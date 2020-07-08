@@ -1,22 +1,22 @@
 ---
-name: iOS Development Ebook
-img: '/appicons/ios.png'
+name: Ruby On Rails Ebook
+img: '/appicons/rubyrails.png'
 ratings: 5
-download: '../files/iospdf.zip'
-tags: 'ebook,guide,iOS'
+download: '../files/rubyrailspdf.zip'
+tags: 'ebook,guide,Ruby On Rails'
 ---
 
-This is an ebook on iOS Developement provided by <a href="https://riptutorial.com/" >https://riptutorial.com/</a>
+This is an ebook on Ruby On Rails Developement provided by <a href="https://riptutorial.com/" >https://riptutorial.com/</a>
 
-## What is iOS ?
+## What is Ruby On Rails ?
 
-iOS is a mobile operating system created and developed by Apple Inc. exclusively for its hardware. It is the operating system that powers many of the company's mobile devices, including the iPhone and iPod Touch; it also powered the iPad until the introduction of iPadOS in 2019.
+Ruby on Rails, or Rails, is a server-side web application framework written in Ruby under the MIT License. Rails is a model–view–controller framework, providing default structures for a database, a web service, and web pages.
 
 ## About
 
 It is an unofficial and free iOS Development ebook created for educational purposes. All the content is
 extracted from Stack Overflow Documentation, which is written by many hardworking individuals at
-Stack Overflow. It is neither affiliated with Stack Overflow nor official iOS.
+Stack Overflow. It is neither affiliated with Stack Overflow nor official Ruby On Rails.
 The content is released under Creative Commons BY-SA, and the list of contributors to each
 chapter are provided in the credits section at the end of this book. Images may be copyright of
 their respective owners unless otherwise specified. All trademarks and registered trademarks are

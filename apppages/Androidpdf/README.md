@@ -16,7 +16,7 @@ Android is a mobile operating system based on a modified version of the Linux ke
 
 It is an unofficial and free Android Development ebook created for educational purposes. All the content is
 extracted from Stack Overflow Documentation, which is written by many hardworking individuals at
-Stack Overflow. It is neither affiliated with Stack Overflow nor official HTML.
+Stack Overflow. It is neither affiliated with Stack Overflow nor official Android.
 The content is released under Creative Commons BY-SA, and the list of contributors to each
 chapter are provided in the credits section at the end of this book. Images may be copyright of
 their respective owners unless otherwise specified. All trademarks and registered trademarks are

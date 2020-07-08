@@ -18,7 +18,7 @@ Python is a MUST for students and working professionals to become a great Softwa
 
 It is an unofficial and free Python ebook created for educational purposes. All the content is
 extracted from Stack Overflow Documentation, which is written by many hardworking individuals at
-Stack Overflow. It is neither affiliated with Stack Overflow nor official HTML.
+Stack Overflow. It is neither affiliated with Stack Overflow nor official Python.
 The content is released under Creative Commons BY-SA, and the list of contributors to each
 chapter are provided in the credits section at the end of this book. Images may be copyright of
 their respective owners unless otherwise specified. All trademarks and registered trademarks are
