@@ -2,7 +2,7 @@
 name: Learn Python - Full Course for Beginners
 img: '/appicons/python.png'
 ratings: 5
-download: '../files/video.zip'
+download: '../files/pythoncourse.zip'
 tags: 'crash course,python,freecodecamp'
 ---
 

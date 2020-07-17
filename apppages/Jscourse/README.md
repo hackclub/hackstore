@@ -2,7 +2,7 @@
 name: Javascript crash course
 img: '/appicons/js.png'
 ratings: 5
-download: '../files/video.zip'
+download: '../files/jscourse.zip'
 tags: 'crash course,javascript,freecodecamp'
 ---
 
