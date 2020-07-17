@@ -15,7 +15,14 @@ import mapper from '../../lib/maps/mapper'
 const AppWindow = ({ activetab }) => (
   <div
     className="appwindow"
-    sx={{ flex: 1, bg: 'containercolor', height: '100vh', overflow: 'auto' }}
+    sx={{
+      flex: 1,
+      bg: 'containercolor',
+      height: '100vh',
+      overflow: 'auto',
+      display: activetab === 'Workshops' ? 'flex' : '',
+      flexDirection: activetab === 'Workshops' ? 'column' : ''
+    }}
   >
     <div
       className="appwindowHead"
@@ -70,7 +77,12 @@ const AppWindow = ({ activetab }) => (
       ))}
     </Grid>
     <br sx={{ display: [null, 'none'] }} />
-    <div sx={{ pt: [5] }}>
+    <div
+      sx={{
+        pt: activetab === 'Workshops' ? [0] : [5],
+        flex: activetab === 'Workshops' ? 1 : ''
+      }}
+    >
       {activetab === 'Workshops' ? <Workshops /> : <Renderer />}
     </div>
   </div>
