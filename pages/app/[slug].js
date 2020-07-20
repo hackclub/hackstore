@@ -77,6 +77,10 @@ const Page = ({ newd, data }) => {
             margin: 'auto',
             display: 'block',
             my: 4
+          },
+          h1: {
+            fontSize: 5,
+            textAlign: 'center'
           }
         }}
       >
