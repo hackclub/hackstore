@@ -5,7 +5,9 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start"
+    "start": "next start",
+    "format": "prettier --write .",
+    "checkFormat": "prettier --check ."
   },
   "dependencies": {
     "@hackclub/meta": "^1.0.0",
@@ -26,5 +28,8 @@
     "redux-thunk": "^2.3.0",
     "simplebar-react": "^2.2.1",
     "theme-ui": "^0.3.1"
+  },
+  "devDependencies": {
+    "prettier": "2.0.5"
   }
 }
