@@ -1,9 +1,9 @@
 ---
 name: React Ebook
-img: '/appicons/react.png'
+img: "/appicons/react.png"
 ratings: 5
-download: '../files/reactpdf.zip'
-tags: 'ebook,guide,react'
+download: "../files/reactpdf.zip"
+tags: "ebook,guide,react"
 ---
 
 This is an ebook on react js provided by <a href="https://riptutorial.com/" >https://riptutorial.com/</a>

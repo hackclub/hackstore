@@ -1,9 +1,9 @@
 ---
 name: Limor Fried's AMA
-img: '/appicons/video.png'
+img: "/appicons/video.png"
 ratings: 5
-download: '../files/limor.zip'
-tags: 'Hack Club,Limor Fried,AMA'
+download: "../files/limor.zip"
+tags: "Hack Club,Limor Fried,AMA"
 ---
 
 # Watch Hack Club's interaction with Limor Fried!

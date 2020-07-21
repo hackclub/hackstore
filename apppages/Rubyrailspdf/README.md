@@ -1,9 +1,9 @@
 ---
 name: Ruby On Rails Ebook
-img: '/appicons/rubyrails.png'
+img: "/appicons/rubyrails.png"
 ratings: 5
-download: '../files/rubyrailspdf.zip'
-tags: 'ebook,guide,Ruby On Rails'
+download: "../files/rubyrailspdf.zip"
+tags: "ebook,guide,Ruby On Rails"
 ---
 
 This is an ebook on Ruby On Rails Developement provided by <a href="https://riptutorial.com/" >https://riptutorial.com/</a>

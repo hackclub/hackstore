@@ -1,8 +1,8 @@
 ---
 name: HackIde
-img: '/appicons/hacklogo.jpg'
+img: "/appicons/hacklogo.jpg"
 ratings: 5
-download: '../files/editor.zip'
+download: "../files/editor.zip"
 ---
 
 HackIde is an editor which works totally offline and is platform-independent, the software runs on web browsers and is good to go editor for someone who is new to programming and wants to make simple websites really quick. It supports snippets, autocomplete, and live running your code. You can save your work in the Ide and can open your project from where you left it.

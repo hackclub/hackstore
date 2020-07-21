@@ -1,19 +1,19 @@
 /**@jsx jsx*/
-import { jsx, Grid } from 'theme-ui'
-import { connect } from 'react-redux'
-import { AppCard } from './index'
-import mapper from '../../lib/maps/mapper'
+import { jsx, Grid } from "theme-ui";
+import { connect } from "react-redux";
+import { AppCard } from "./index";
+import mapper from "../../lib/maps/mapper";
 const Renderer = ({ activetab }) => {
-  const keyinitial = mapper(activetab).keyinitial
+  const keyinitial = mapper(activetab).keyinitial;
 
   return (
     <Grid
       columns={[1, 1, 2, 4, 5]}
       sx={{
-        justifyContent: 'center',
-        justifyItems: 'center',
+        justifyContent: "center",
+        justifyItems: "center",
         rowGap: 5,
-        pb: 4
+        pb: 4,
       }}
     >
       {mapper(activetab).data.map((ele, index) => (
@@ -26,12 +26,12 @@ const Renderer = ({ activetab }) => {
         />
       ))}
     </Grid>
-  )
-}
+  );
+};
 
 export default connect(
-  state => ({
-    activetab: state.activetab
+  (state) => ({
+    activetab: state.activetab,
   }),
   null
-)(Renderer)
+)(Renderer);

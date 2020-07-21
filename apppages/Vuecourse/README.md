@@ -1,10 +1,10 @@
 ---
 name: Vue  course
-img: '/appicons/vue.png'
+img: "/appicons/vue.png"
 ratings: 5
-download: '../files/vuecourse.zip'
-tags: 'course,vue,web,freecodecamp'
-link: 'https://www.youtube.com/watch?v=4deVCNJq3qc'
+download: "../files/vuecourse.zip"
+tags: "course,vue,web,freecodecamp"
+link: "https://www.youtube.com/watch?v=4deVCNJq3qc"
 ---
 
 Learn to use Vue.js in this full tutorial course for beginners. Vue.js is an open-source JavaScript framework for building user interfaces and single-page applications.
