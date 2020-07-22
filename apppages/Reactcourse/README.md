@@ -1,10 +1,10 @@
 ---
 name: React  course
-img: '/appicons/react.png'
+img: "/appicons/react.png"
 ratings: 5
-download: '../files/reactcourse.zip'
-tags: 'course,react,web,freecodecamp'
-link: 'https://www.youtube.com/watch?v=DLX62G4lc44'
+download: "../files/reactcourse.zip"
+tags: "course,react,web,freecodecamp"
+link: "https://www.youtube.com/watch?v=DLX62G4lc44"
 ---
 
 React.js is a JavaScript library for building dynamic web applications. Upon completion of this course, you'll know everything you need in order to build web applications in React.

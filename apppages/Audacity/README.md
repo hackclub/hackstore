@@ -1,9 +1,9 @@
 ---
 name: Audacity
-img: '/appicons/audacity.png'
+img: "/appicons/audacity.png"
 ratings: 3
-download: '../files/audacity.zip'
-tags: 'audio,music,productivity,editing'
+download: "../files/audacity.zip"
+tags: "audio,music,productivity,editing"
 ---
 
 Audacity is an easy-to-use, multi-track audio editor and recorder for Windows, macOS, GNU/Linux and other operating systems.

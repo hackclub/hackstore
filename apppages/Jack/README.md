@@ -1,9 +1,9 @@
 ---
 name: Jack Conte's AMA
-img: '/appicons/video.png'
+img: "/appicons/video.png"
 ratings: 5
-download: '../files/jack.zip'
-tags: 'Hack Club,Jack Conte,AMA'
+download: "../files/jack.zip"
+tags: "Hack Club,Jack Conte,AMA"
 ---
 
 # Watch Hack Club's interaction with Jack Conte!

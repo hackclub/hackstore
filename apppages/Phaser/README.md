@@ -1,8 +1,8 @@
 ---
 name: Phaser
-img: '/appicons/js.png'
+img: "/appicons/js.png"
 ratings: 5
-download: '../files/phaser.zip'
+download: "../files/phaser.zip"
 ---
 
 **Phaser** is a free software 2D game framework for making HTML5 games for desktop and mobile.It is developed by Photon Storm.

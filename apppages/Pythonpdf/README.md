@@ -1,9 +1,9 @@
 ---
 name: Python Ebook
-img: '/appicons/python.png'
+img: "/appicons/python.png"
 ratings: 5
-download: '../files/pythonpdf.zip'
-tags: 'ebook,guide,Python'
+download: "../files/pythonpdf.zip"
+tags: "ebook,guide,Python"
 ---
 
 This is an ebook on Python provided by <a href="https://riptutorial.com/" >https://riptutorial.com/</a>

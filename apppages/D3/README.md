@@ -1,8 +1,8 @@
 ---
 name: D3
-img: '/appicons/d3.png'
+img: "/appicons/d3.png"
 ratings: 4
-download: '../files/d3.zip'
+download: "../files/d3.zip"
 ---
 
 **Data visualization** is the presentation of data in a pictorial or graphical format. The primary goal of data visualization is to communicate information clearly and efficiently via statistical graphics, plots and information graphics.

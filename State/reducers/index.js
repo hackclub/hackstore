@@ -1,14 +1,14 @@
-import { combineReducers } from 'redux'
+import { combineReducers } from "redux";
 
-import { activetab } from '../actions/actiontype'
+import { activetab } from "../actions/actiontype";
 
-function activetabreducer(state = 'Home', action) {
+function activetabreducer(state = "Home", action) {
   if (action.type == activetab) {
-    return action.activetab
+    return action.activetab;
   }
-  return state
+  return state;
 }
 
 export default combineReducers({
-  activetab: activetabreducer
-})
+  activetab: activetabreducer,
+});

@@ -1,10 +1,10 @@
 ---
 name: Sql  course
-img: '/appicons/sql.png'
+img: "/appicons/sql.png"
 ratings: 5
-download: '../files/sqlcourse.zip'
-tags: 'course,Sql, development,freecodecamp'
-link: 'https://www.youtube.com/watch?v=HXV3zeQKqGY&t=9255s'
+download: "../files/sqlcourse.zip"
+tags: "course,Sql, development,freecodecamp"
+link: "https://www.youtube.com/watch?v=HXV3zeQKqGY&t=9255s"
 ---
 
 In this course, we'll be looking at database management basics and SQL using the MySQL RDBMS. The course is designed for beginners to SQL and database management systems, and will introduce common database management topics.

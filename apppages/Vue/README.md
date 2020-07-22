@@ -1,8 +1,8 @@
 ---
 name: Vue
-img: '/appicons/vue.png'
+img: "/appicons/vue.png"
 ratings: 5
-download: '../files/vue.zip'
+download: "../files/vue.zip"
 ---
 
 VueJS is an open source progressive JavaScript framework used to develop interactive web interfaces. It is one of the famous frameworks used to simplify web development. VueJS focusses on the view layer. It can be easily integrated into big projects for front-end development without any issues.
