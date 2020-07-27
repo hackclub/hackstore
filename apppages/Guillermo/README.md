@@ -8,4 +8,4 @@ tags: 'Hack Club,Guillermo Rauch,AMA'
 
 # Watch Hack Club's interaction with Guillermo Rauch!
 
-<img src="../../screenshots/Guillermo/ss1.webp" alt="image" >
+<img src="../../screenshots/Guillermo/ss1.png" alt="image" >

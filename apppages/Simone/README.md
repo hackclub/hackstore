@@ -8,4 +8,4 @@ tags: 'Hack Club,Simone Giertz,AMA'
 
 # Watch Hack Club's interaction with Simone Giertz!
 
-<img src="../../screenshots/Simone/ss1.webp" alt="image" >
+<img src="../../screenshots/Simone/ss1.jpeg" alt="image" >

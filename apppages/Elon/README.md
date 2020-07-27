@@ -8,4 +8,4 @@ tags: 'Hack Club,Elon Musk,AMA'
 
 # Watch Hack Club's interaction with Elon Musk!
 
-<img src="../../screenshots/Elon/ss1.jpg" alt="image" >
+<img src="../../screenshots/Elon/ss1.png" alt="image" >

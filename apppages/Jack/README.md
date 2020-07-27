@@ -8,4 +8,4 @@ tags: 'Hack Club,Jack Conte,AMA'
 
 # Watch Hack Club's interaction with Jack Conte!
 
-<img src="../../screenshots/Jack/ss1.webp" alt="image" >
+<img src="../../screenshots/Jack/ss1.png" alt="image" >

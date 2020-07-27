@@ -8,4 +8,4 @@ tags: 'Hack Club,Limor Fried,AMA'
 
 # Watch Hack Club's interaction with Limor Fried!
 
-<img src="../../screenshots/Limor/ss1.webp" alt="image" >
+<img src="../../screenshots/Limor/ss1.png" alt="image" >

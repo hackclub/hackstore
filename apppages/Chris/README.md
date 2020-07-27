@@ -8,4 +8,4 @@ tags: 'Hack Club,Chris Cox,AMA'
 
 # Watch Hack Club's interaction with Chris Cox!
 
-<img src="../../screenshots/Chris/ss1.webp" alt="image" >
+<img src="../../screenshots/Chris/ss1.jpeg" alt="image" >
