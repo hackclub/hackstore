@@ -1,10 +1,10 @@
 ---
 name: Unity FPS Survival Game Tutorial - First Person Shooter Game Dev
-img: '/appicons/unity.png'
+img: "/appicons/unity.png"
 ratings: 5
-download: '../files/unityfpscourse.zip'
-tags: 'course,Unity,game development,freecodecamp'
-link: 'https://www.youtube.com/watch?v=Sqb-Ue7wpsI'
+download: "../files/unityfpscourse.zip"
+tags: "course,Unity,game development,freecodecamp"
+link: "https://www.youtube.com/watch?v=Sqb-Ue7wpsI"
 ---
 
 Learn how to make a first-person shooter in Unity. Making a FPS in Unity is easy for beginners. This 8-hour tutorial covers everything you need to know to make a basic first person shooter game.

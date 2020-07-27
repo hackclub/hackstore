@@ -1,9 +1,9 @@
 ---
 name: C++ Ebook
-img: '/appicons/c++.png'
+img: "/appicons/c++.png"
 ratings: 5
-download: '../files/cpluspdf.zip'
-tags: 'ebook,guide,C++'
+download: "../files/cpluspdf.zip"
+tags: "ebook,guide,C++"
 ---
 
 This is an ebook on C++ provided by <a href="https://riptutorial.com/" >https://riptutorial.com/</a>

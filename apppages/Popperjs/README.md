@@ -1,8 +1,8 @@
 ---
 name: Popperjs
-img: '/appicons/popper.png'
+img: "/appicons/popper.png"
 ratings: 5
-download: '../files/popper.zip'
+download: "../files/popper.zip"
 ---
 
 Popper.js is a positioning engine, its purpose is to calculate the position of an element to make it possible to position it near a given reference element.

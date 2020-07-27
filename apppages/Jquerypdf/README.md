@@ -1,9 +1,9 @@
 ---
 name: jQuery Ebook
-img: '/appicons/js.png'
+img: "/appicons/js.png"
 ratings: 5
-download: '../files/jquerypdf.zip'
-tags: 'ebook,guide,jQuery'
+download: "../files/jquerypdf.zip"
+tags: "ebook,guide,jQuery"
 ---
 
 This is an ebook on Nodejs Developement provided by <a href="https://riptutorial.com/" >https://riptutorial.com/</a>

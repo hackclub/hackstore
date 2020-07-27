@@ -1,9 +1,9 @@
 ---
 name: Nodejs Development Ebook
-img: '/appicons/nodejs.png'
+img: "/appicons/nodejs.png"
 ratings: 5
-download: '../files/nodepdf.zip'
-tags: 'ebook,guide,Nodejs'
+download: "../files/nodepdf.zip"
+tags: "ebook,guide,Nodejs"
 ---
 
 This is an ebook on Nodejs Developement provided by <a href="https://riptutorial.com/" >https://riptutorial.com/</a>

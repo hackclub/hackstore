@@ -1,8 +1,8 @@
 ---
 name: React
-img: '/appicons/react.png'
+img: "/appicons/react.png"
 ratings: 5
-download: '../files/react.zip'
+download: "../files/react.zip"
 ---
 
 ReactJS is JavaScript library used for building reusable UI components. According to React official documentation, following is the definition −

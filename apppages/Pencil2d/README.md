@@ -1,9 +1,9 @@
 ---
 name: Pencil2d
-img: '/appicons/pencil2d.png'
+img: "/appicons/pencil2d.png"
 ratings: 4
-download: '../files/pencil2d.zip'
-tags: 'graphics,animation,Pencil2d'
+download: "../files/pencil2d.zip"
+tags: "graphics,animation,Pencil2d"
 ---
 
 Pencil2D is a 2D animation software that runs on Microsoft Windows, OS X and Unix-like operating systems. It is open-source software, released under the GNU General Public License and uses the Qt framework. It is used for making cartoons using traditional techniques, managing vector and bitmap drawing

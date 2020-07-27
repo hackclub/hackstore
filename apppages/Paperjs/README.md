@@ -1,8 +1,8 @@
 ---
 name: Paperjs
-img: '/appicons/js.png'
+img: "/appicons/js.png"
 ratings: 4
-download: '../files/paper.zip'
+download: "../files/paper.zip"
 ---
 
 Paper.js is an open source vector graphics scripting framework that runs on top of the HTML5 Canvas. It offers a clean Scene Graph / Document Object Model and a lot of powerful functionality to create and work with vector graphics and bezier curves, all neatly wrapped up in a well designed, consistent and clean programming interface.

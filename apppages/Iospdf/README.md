@@ -1,9 +1,9 @@
 ---
 name: iOS Development Ebook
-img: '/appicons/ios.png'
+img: "/appicons/ios.png"
 ratings: 5
-download: '../files/iospdf.zip'
-tags: 'ebook,guide,iOS'
+download: "../files/iospdf.zip"
+tags: "ebook,guide,iOS"
 ---
 
 This is an ebook on iOS Developement provided by <a href="https://riptutorial.com/" >https://riptutorial.com/</a>

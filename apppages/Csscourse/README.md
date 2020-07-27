@@ -1,10 +1,10 @@
 ---
 name: CSS  course
-img: '/appicons/css.png'
+img: "/appicons/css.png"
 ratings: 5
-download: '../files/csscourse.zip'
-tags: 'course,CSS,web,freecodecamp'
-link: 'https://www.youtube.com/watch?v=1Rs2ND1ryYc'
+download: "../files/csscourse.zip"
+tags: "course,CSS,web,freecodecamp"
+link: "https://www.youtube.com/watch?v=1Rs2ND1ryYc"
 ---
 
 Learn CSS in this full course for beginners. CSS, or Cascading Style Sheet, is responsible for the styling and looks of a website.
