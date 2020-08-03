@@ -5,7 +5,7 @@ import Card from './card'
 
 export default ({ imgsrc, section }) => (
   <div
-    className="sidebar"
+    className='sidebar'
     sx={{
       bg: 'sidebarcolor',
       width: ['40vw', '40vw', '30vw', '20vw'],
@@ -13,22 +13,21 @@ export default ({ imgsrc, section }) => (
       overflowX: 'hidden',
       display: ['none', 'flex'],
       flexDirection: 'column',
-      alignItems: 'center'
+      alignItems: 'center',
       //  scrollbarWidth: '2'
-    }}
-  >
-    <img sx={{ width: '80px', mt: 4 }} src="hackclublogo.svg" />{' '}
+    }}>
+    <img sx={{ width: '80px', mt: 4 }} src='asset3.png' />{' '}
     <h1
       sx={{
         //     borderBottom: '1px solid',
         //    borderColor: 'muted',
         width: '80%',
-        textAlign: 'center'
-      }}
-    >
+        textAlign: 'center',
+        mt: 2,
+      }}>
       <span sx={{ color: 'red' }}>Hack</span> Store
     </h1>
-    {carddata.map(ele => (
+    {carddata.map((ele) => (
       <Card key={ele.imgsrc} imgsrc={ele.imgsrc} section={ele.section} />
     ))}
   </div>
@@ -47,5 +46,5 @@ export const carddata = [
   { imgsrc: 'icons/videos.png', section: 'Videos' },
   { imgsrc: 'icons/javascript.png', section: 'Javascript' },
   { imgsrc: 'icons/khanacademy.png', section: 'Khan Academy' },
-  { imgsrc: 'icons/workshops.png', section: 'Workshops' }
+  { imgsrc: 'icons/workshops.png', section: 'Workshops' },
 ]
