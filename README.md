@@ -78,7 +78,7 @@ You can contribute in the following domains:
 
 - **Khan Academy Course** : You can download Khan Academy course playlist from Youtube and number the videos in their order and compress them in a zip file and then upload them to a drive.
 
-  If you want to know how to order them then this is a <a href="#" >**link**</a> to a current Hack Store Khan Academy Playlist being used in Hack Store. Ensure that you too number Khan Academy playlist videos in the following manner only.
+  If you want to know how to order them then this is a <a href="https://drive.google.com/file/d/1BOTwFerlVmytk1FdygE3W5dt5sfaTTcF/view?usp=sharing" >**link**</a> to a current Hack Store Khan Academy Playlist being used in Hack Store. Ensure that you too number Khan Academy playlist videos in the following manner only.
 
 - **Games**: If you are a game developer then you can be a great help to us.Compress your games into a zip file and upload them to a drive and share the link with Harsh Bajpai and he will add your game to Hack Store.
 
@@ -106,7 +106,7 @@ You can contribute in the following domains:
 
 ## When will the SD card Image Be Available?
 
-<img src="public/readme/want.webp"   />
+<img src="public/readme/want.webp"  alt="Want GIF"  />
 <br/>
 <br/>
 
@@ -116,7 +116,7 @@ We are currently in the testing phase and hence Hack Store is in Beta.We will ve
 
 Our point of contact for you will be **Harsh Bajpai**, If you have any queries or if you want to get your contributions added to Hack Store contact him.
 
-<img src="public/readme/contactus.webp" />
+<img src="public/readme/contactus.webp" alt="Contact Us GIF" />
 
 His contact details are :
 
@@ -124,6 +124,6 @@ His contact details are :
 
 **He is also available on Hack Club's Slack**
 
-**Slack Id:** somenumber
+**Slack Id:** U010XUNLX40
 
-**Slack Username:** harsh bajpai
+**Slack Username:** Harsh Bajpai
