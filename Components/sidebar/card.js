@@ -7,12 +7,8 @@ export default ({ imgsrc, section }) => (
   <div
     sx={{
       pt: 3,
-      display: "flex",
-      flexDirection: "column",
-      //  borderBottom: '1px solid',
-      // borderColor: 'muted',
-      width: "100%",
-      alignItems: "center",
+       width: "100%",
+      textAlign:'center',
       ":hover": {
         transform: "scale(1.1)",
         cursor: "pointer",
