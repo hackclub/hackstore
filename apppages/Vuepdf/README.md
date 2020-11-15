@@ -1,9 +1,9 @@
 ---
 name: Vue Ebook
-img: "/appicons/vue.png"
+img: '/appicons/vue.png'
 ratings: 5
-download: "../files/vuepdf.zip"
-tags: "ebook,guide,Vue js"
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/bSDHi_YYiQ.zip'
+tags: 'ebook,guide,Vue js'
 ---
 
 This is an ebook on Vue js provided by <a href="https://riptutorial.com/" >https://riptutorial.com/</a>

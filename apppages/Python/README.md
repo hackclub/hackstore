@@ -1,9 +1,9 @@
 ---
 name: Python
-img: "/appicons/python.png"
+img: '/appicons/python.png'
 ratings: 5
-download: "../files/python.zip"
-tags: "programming,development,AI,scripting"
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/9x7MmVyOgO.zip'
+tags: 'programming,development,AI,scripting'
 ---
 
 Python is a general-purpose interpreted, interactive, object-oriented, and high-level programming language. It was created by Guido van Rossum during 1985- 1990. Like Perl, Python source code is also available under the GNU General Public License (GPL). This tutorial gives enough understanding on Python programming language.

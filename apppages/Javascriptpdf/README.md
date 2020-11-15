@@ -1,9 +1,9 @@
 ---
 name: Javascript Ebook
-img: "/appicons/js.png"
+img: '/appicons/js.png'
 ratings: 5
-download: "../files/javascriptpdf.zip"
-tags: "ebook,guide,HTML"
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/j77bQyjWgS.zip'
+tags: 'ebook,guide,HTML'
 ---
 
 This is an ebook on Javascript provided by <a href="https://riptutorial.com/" >https://riptutorial.com/</a>

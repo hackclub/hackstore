@@ -1,9 +1,9 @@
 ---
 name: Android Development Ebook
-img: "/appicons/android.png"
+img: '/appicons/android.png'
 ratings: 5
-download: "../files/androidpdf.zip"
-tags: "ebook,guide,Android"
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/d-bjgjEHnY.zip'
+tags: 'ebook,guide,Android'
 ---
 
 This is an ebook on HTML provided by <a href="https://riptutorial.com/" >https://riptutorial.com/</a>

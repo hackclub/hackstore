@@ -2,7 +2,7 @@
 name: Audrey Tang's AMA
 img: '/appicons/video.png'
 ratings: 5
-download: '../files/audrey.zip'
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/fJV5LjvHkb.zip'
 tags: 'Hack Club,Audrey Tang,AMA'
 ---
 

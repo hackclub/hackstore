@@ -2,7 +2,7 @@
 name: Organic Chemistry
 img: '/appicons/chemistry.png'
 ratings: 5
-download: '../files/organicchem.zip'
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/z0JaThHuKK.zip'
 tags: 'Organic Chemistry,Chemistry'
 ---
 

@@ -2,7 +2,7 @@
 name: Rise to world power (1890-1945)
 img: '/appicons/history.png'
 ratings: 5
-download: '../files/risetwp.zip'
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/W9dwexcuoW.zip'
 tags: 'US History,History'
 ---
 

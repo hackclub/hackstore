@@ -2,7 +2,7 @@
 name: Quasars | Stars, black holes and galaxies
 img: '/appicons/space.png'
 ratings: 5
-download: '../files/cosmology_universe.zip'
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/iPMQyuOLD6.zip'
 tags: 'Cosmology,Astronomy,Space'
 ---
 

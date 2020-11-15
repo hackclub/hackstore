@@ -1,9 +1,9 @@
 ---
 name: Nodejs
-img: "/appicons/nodejs.png"
+img: '/appicons/nodejs.png'
 ratings: 4
-download: "../files/nodejs.zip"
-tags: "backend,programming,server side"
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/sFGcxbxgxR.zip'
+tags: 'backend,programming,server side'
 ---
 
 Node.js is a very powerful JavaScript-based platform built on Google Chrome's JavaScript V8 Engine. It is used to develop I/O intensive web applications like video streaming sites, single-page applications, and other web applications. Node.js is open source, completely free, and used by thousands of developers around the world.

@@ -1,9 +1,9 @@
 ---
 name: Javascript crash course
-img: "/appicons/js.png"
+img: '/appicons/js.png'
 ratings: 5
-download: "../files/jscourse.zip"
-tags: "crash course,javascript,freecodecamp"
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/hGZZQtO6xZ.zip'
+tags: 'crash course,javascript,freecodecamp'
 ---
 
 This course will give you a full introduction into all of the core concepts in python. Follow along with the videos and you'll be a python programmer in no time!

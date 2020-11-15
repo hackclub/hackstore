@@ -2,7 +2,7 @@
 name: Armoatic Compounds
 img: '/appicons/chemistry.png'
 ratings: 5
-download: '../files/aromaticcompounds.zip'
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/nZFqfqVqXZ.zip'
 tags: 'Armoatic Compounds,Chemistry'
 ---
 

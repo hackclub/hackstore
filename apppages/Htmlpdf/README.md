@@ -1,9 +1,9 @@
 ---
 name: HTML Ebook
-img: "/appicons/html.png"
+img: '/appicons/html.png'
 ratings: 5
-download: "../files/htmlpdf.zip"
-tags: "ebook,guide,HTML"
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/dWr60RQL14.zip'
+tags: 'ebook,guide,HTML'
 ---
 
 This is an ebook on HTML provided by <a href="https://riptutorial.com/" >https://riptutorial.com/</a>

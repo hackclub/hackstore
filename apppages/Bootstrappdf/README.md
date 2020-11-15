@@ -1,9 +1,9 @@
 ---
 name: Bootstrap Ebook
-img: "/appicons/bootstrap.png"
+img: '/appicons/bootstrap.png'
 ratings: 5
-download: "../files/bootstrappdf.zip"
-tags: "ebook,guide,Bootstrap"
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/vsJksf6mT4.zip'
+tags: 'ebook,guide,Bootstrap'
 ---
 
 This is an ebook on Bootstrap provided by <a href="https://riptutorial.com/" >https://riptutorial.com/</a>

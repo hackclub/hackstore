@@ -1,9 +1,9 @@
 ---
 name: CSS Ebook
-img: "/appicons/css.png"
+img: '/appicons/css.png'
 ratings: 5
-download: "../files/csspdf.zip"
-tags: "ebook,guide,CSS"
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/QjGb-aoD19.zip'
+tags: 'ebook,guide,CSS'
 ---
 
 This is an ebook on HTML provided by <a href="https://riptutorial.com/" >https://riptutorial.com/</a>

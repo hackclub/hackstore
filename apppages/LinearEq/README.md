@@ -2,7 +2,7 @@
 name: Systems of linear equations
 img: '/appicons/maths.png'
 ratings: 5
-download: '../files/linearequations.zip'
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/4CFfs0Q6qY.zip'
 tags: 'Linear Equations,Maths'
 ---
 

@@ -1,9 +1,9 @@
 ---
 name: Simone Giertz's AMA
-img: "/appicons/video.png"
+img: '/appicons/video.png'
 ratings: 5
-download: "../files/simone.zip"
-tags: "Hack Club,Simone Giertz,AMA"
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/GZB2TASnN5.zip'
+tags: 'Hack Club,Simone Giertz,AMA'
 ---
 
 # Watch Hack Club's interaction with Simone Giertz!

@@ -1,9 +1,9 @@
 ---
 name: Gimp (GNU Image Manipulation Program)
-img: "/appicons/gimplogo.png"
+img: '/appicons/gimplogo.png'
 ratings: 4
-download: "../files/gimp.zip"
-tags: "productivity,graphics,editing,image manipulation"
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/PwzTo9LdQO.zip'
+tags: 'productivity,graphics,editing,image manipulation'
 ---
 
 Whether you are a graphic designer, photographer, illustrator, or scientist, GIMP provides you with sophisticated tools to get your job done. You can further enhance your productivity with GIMP thanks to many customization options and 3rd party plugins.

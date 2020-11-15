@@ -1,9 +1,9 @@
 ---
 name: Elon Musk's AMA
-img: "/appicons/video.png"
+img: '/appicons/video.png'
 ratings: 5
-download: "../files/elon.zip"
-tags: "Hack Club,Elon Musk,AMA"
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/hmp9l6lFlm.zip'
+tags: 'Hack Club,Elon Musk,AMA'
 ---
 
 # Watch Hack Club's interaction with Elon Musk!

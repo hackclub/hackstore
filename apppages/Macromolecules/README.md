@@ -2,7 +2,7 @@
 name: Macromolecules
 img: '/appicons/biology.png'
 ratings: 5
-download: '../files/macromolecules.zip'
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/74KXc18qZu.zip'
 tags: 'Macromolecules,Biology'
 ---
 

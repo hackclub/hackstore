@@ -1,9 +1,9 @@
 ---
 name: Java Ebook
-img: "/appicons/java.png"
+img: '/appicons/java.png'
 ratings: 5
-download: "../files/javapdf.zip"
-tags: "ebook,guide,Java"
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/j3Xl3x4v2L.zip'
+tags: 'ebook,guide,Java'
 ---
 
 This is an ebook on Java provided by <a href="https://riptutorial.com/" >https://riptutorial.com/</a>

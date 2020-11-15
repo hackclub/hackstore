@@ -2,7 +2,7 @@
 name: Trignometry
 img: '/appicons/maths.png'
 ratings: 5
-download: '../files/trignometry.zip'
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/MrsOXPjwv2.zip'
 tags: 'Trignometry,Maths'
 ---
 

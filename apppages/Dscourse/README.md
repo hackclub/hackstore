@@ -1,10 +1,10 @@
 ---
 name: Data structure course
-img: "/appicons/ds.png"
+img: '/appicons/ds.png'
 ratings: 5
-download: "../files/dscourse.zip"
-tags: "course,data structure,freecodecamp"
-link: "https://www.youtube.com/watch?v=RBSGKlAvoiM"
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/HwSs5tWvjW.zip'
+tags: 'course,data structure,freecodecamp'
+link: 'https://www.youtube.com/watch?v=RBSGKlAvoiM'
 ---
 
 Learn and master the most common data structures in this full course from Google engineer William Fiset. This course teaches data structures to beginners using high quality animations to represent the data structures visually.

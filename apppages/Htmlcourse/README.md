@@ -1,10 +1,10 @@
 ---
 name: HTML course
-img: "/appicons/html.png"
+img: '/appicons/html.png'
 ratings: 5
-download: "../files/htmlcourse.zip"
-tags: "course,HTML,freecodecamp"
-link: "https://www.youtube.com/watch?v=pQN-pnXPaVg"
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/XiMSBcLEpz.zip'
+tags: 'course,HTML,freecodecamp'
+link: 'https://www.youtube.com/watch?v=pQN-pnXPaVg'
 ---
 
 Learn the basics of HTML5 and web development in this awesome course for beginners.

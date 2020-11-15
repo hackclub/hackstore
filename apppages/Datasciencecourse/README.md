@@ -1,10 +1,10 @@
 ---
 name: Python for Data Science - Course for Beginners (Learn Python, Pandas, NumPy, Matplotlib)
-img: "/appicons/python.png"
+img: '/appicons/python.png'
 ratings: 5
-download: "../files/datasciencecourse.zip"
-tags: "course,data science,freecodecamp"
-link: "https://www.youtube.com/watch?v=LHBE6Q9XlzI"
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/FkaA6HeIou.zip'
+tags: 'course,data science,freecodecamp'
+link: 'https://www.youtube.com/watch?v=LHBE6Q9XlzI'
 ---
 
 This Python data science course will take you from knowing nothing about Python to coding and analyzing data with Python using tools like Pandas, NumPy, and Matplotlib.

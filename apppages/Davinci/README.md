@@ -1,9 +1,9 @@
 ---
 name: DaVinci Resolve
-img: "/appicons/davinci.png"
+img: '/appicons/davinci.png'
 ratings: 5
-tags: "video editing,graphics,color grading"
-download: "../files/davinci.zip"
+tags: 'video editing,graphics,color grading'
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/u9rjU9Bnxo.zip'
 ---
 
 DaVinci Resolve 16 is the world’s only solution that combines professional 8K editing, color correction, visual effects and audio post production all in one software tool! You can instantly move between editing, color, effects, and audio with a single click. DaVinci Resolve Studio is also the only solution designed for multi user collaboration so editors, assistants, colorists, VFX artists and sound designers can all work live on the same project at the same time! Whether you’re an individual artist, or part of a large collaborative team, it’s easy to see why DaVinci Resolve is the standard for high end post production and finishing on more Hollywood feature films, television shows and commercials than any other software.

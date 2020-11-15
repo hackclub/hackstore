@@ -1,8 +1,8 @@
 ---
 name: Bootstrap
-img: "/appicons/bootstrap.png"
+img: '/appicons/bootstrap.png'
 ratings: 5
-download: "../files/bootstrap.zip"
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/-XCxyjjGRn.zip'
 ---
 
 Twitter Bootstrap is the most popular front end framework in the recent time. It is sleek, intuitive, and powerful mobile first front-end framework for faster and easier web development. It uses HTML, CSS and Javascript. This tutorial will teach you the basics of Bootstrap Framework using which you can create web projects with ease. The tutorial is divided into sections such as Bootstrap Basic Structure, Bootstrap CSS, Bootstrap Layout Components and Bootstrap Plugins. Each of these sections contain related topics with simple and useful examples.

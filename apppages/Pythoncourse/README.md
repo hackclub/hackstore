@@ -1,9 +1,9 @@
 ---
 name: Learn Python - Full Course for Beginners
-img: "/appicons/python.png"
+img: '/appicons/python.png'
 ratings: 5
-download: "../files/pythoncourse.zip"
-tags: "crash course,python,freecodecamp"
+download: 'https://storage.googleapis.com/file-in.appspot.com/files/5wrHJCJfec.zip'
+tags: 'crash course,python,freecodecamp'
 ---
 
 This course will give you a full introduction into all of the core concepts in python. Follow along with the videos and you'll be a python programmer in no time!
