@@ -50,18 +50,15 @@ export default () => (
       content='hack store,hack box,open-source app store,hack club,hack club india, Free Educational Resources, Non-Profit'></meta>
     <meta
       name='description'
-      content='Hack store is an open-source App/Resources Store that contains a collection of educational resources ( Applications, Books, Courses, etc ). Hack Store is part of Hack Box (https://hackbox.hackclub.com/), which is an initiative to provide free-of-cost resources to the most remote places of the world without the requirement of internet connectivity.
-      Hack Club is a global nonprofit network of high school makers &amp; student-led coding clubs where young people build the agency, the network, &amp; the technical talent to think big &amp; do big things in the world.'
+      content='Hack store is an open-source App/Resources Store that contains a collection of educational resources ( Applications, Books, Courses, etc ). Hack Store is part of Hack Box (https://hackbox.hackclub.com/), which is an initiative to provide free-of-cost resources to the most remote places of the world without the requirement of internet connectivity.'
     />
     <meta
       property='og:description'
-      content='Hack store is an open-source App/Resources Store that contains a collection of educational resources ( Applications, Books, Courses, etc ). Hack Store is part of Hack Box (https://hackbox.hackclub.com/), which is an initiative to provide free-of-cost resources to the most remote places of the world without the requirement of internet connectivity.
-      Hack Club is a global nonprofit network of high school makers &amp; student-led coding clubs where young people build the agency, the network, &amp; the technical talent to think big &amp; do big things in the world.'
+      content='Hack store is an open-source App/Resources Store that contains a collection of educational resources ( Applications, Books, Courses, etc ). Hack Store is part of Hack Box (https://hackbox.hackclub.com/), which is an initiative to provide free-of-cost resources to the most remote places of the world without the requirement of internet connectivity.'
     />
     <meta
       name='twitter:description'
-      content='Hack store is an open-source App/Resources Store that contains a collection of educational resources ( Applications, Books, Courses, etc ). Hack Store is part of Hack Box (https://hackbox.hackclub.com/), which is an initiative to provide free-of-cost resources to the most remote places of the world without the requirement of internet connectivity.
-      Hack Club is a global nonprofit network of high school makers &amp; student-led coding clubs where young people build the agency, the network, &amp; the technical talent to think big &amp; do big things in the world.'
+      content='Hack store is an open-source App/Resources Store that contains a collection of educational resources ( Applications, Books, Courses, etc ). Hack Store is part of Hack Box (https://hackbox.hackclub.com/), which is an initiative to provide free-of-cost resources to the most remote places of the world without the requirement of internet connectivity.'
     />
     <meta
       property='twitter:image'
