@@ -2,6 +2,10 @@
   "name": "hackstore",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Harsh Bajpai",
+    "email": "harsh@hackclub.com"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -10,6 +14,7 @@
     "checkFormat": "prettier --check ."
   },
   "dependencies": {
+    "@hackclub/icons": "^0.0.5",
     "@hackclub/meta": "^1.0.0",
     "@hackclub/theme": "^0.1.1",
     "@material-ui/core": "^4.11.0",

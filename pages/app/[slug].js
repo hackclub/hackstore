@@ -5,14 +5,18 @@ import { jsx, Button } from 'theme-ui'
 import path from 'path'
 import fs from 'fs'
 import matter from 'gray-matter'
+import Head from 'next/head'
 import ReactMarkdown from 'react-markdown/with-html'
 
 const Page = ({ newd, data }) => {
   const parseddata = JSON.parse(data)
   const name = parseddata.data.name
-  console.log(parseddata.data.tags)
+
   return (
     <div sx={{ p: {} }}>
+      <Head>
+        <title>{name} - Hack Store</title>
+      </Head>
       <div sx={{ width: '100vw', textAlign: 'center', mt: 2 }}>
         <div>
           <img

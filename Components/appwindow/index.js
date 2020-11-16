@@ -15,7 +15,7 @@ import { carddata } from '../sidebar/index'
 
 import mapper from '../../lib/maps/mapper'
 
-import SearchBar from 'material-ui-search-bar'
+import SearchBar from './searchbar'
 
 const AppWindow = ({ activetab }) => {
   const [data, setdata] = useState(mapper(activetab))
@@ -55,9 +55,7 @@ const AppWindow = ({ activetab }) => {
             top: [2, 3],
           }}>
           <SearchBar
-            placeholder='search hackstore'
             onChange={(newValue) => search(newValue, setdata, activetab)}
-            onRequestSearch={() => null}
           />
         </Flex>
         <div sx={{ color: 'white', width: '100%' }}>
