@@ -22,7 +22,7 @@
     "@zeit/next-mdx": "^1.2.0",
     "express": "^4.17.1",
     "gray-matter": "^4.0.2",
-    "lodash": "^4.17.19",
+    "lodash": "^4.17.21",
     "markdown-yaml-metadata-parser": "^2.0.5",
     "material-ui-search-bar": "^1.0.0",
     "next": "9.4.4",
